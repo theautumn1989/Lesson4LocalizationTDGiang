@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson4.Localization.TDGiang</string>
+    <string name="have_fun">Que te diviertas</string>
+    <string name="do_something">Hacer algo</string>
+    <string name="click_here">Haga clic aquí</string>
+    <string name="surprise">Sorpresa</string>
+</resources>
